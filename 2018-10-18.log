@@ -1,0 +1,563 @@
+[normal][10:18:42]start vwfspath
+[normal][10:18:42]here1
+[normal][10:18:42]here2
+[normal][10:18:43]here3
+[normal][10:18:43]real fileName is, /home/vwfs/郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5.ts
+[normal][10:18:43]1
+[normal][10:18:43]2
+[normal][10:18:43]3
+[normal][10:18:43]4
+[normal][10:18:43]2
+[normal][10:18:43]3
+[normal][10:18:43]4
+[normal][10:18:43]2
+[normal][10:18:43]3
+[normal][10:18:43]4
+[normal][10:18:43]2
+[normal][10:18:43]3
+[normal][10:18:43]4
+[normal][10:18:43]2
+[normal][10:18:43]3
+[normal][10:18:43]4
+[normal][10:18:43]2
+[normal][10:18:43]3
+[normal][10:18:43]4
+[normal][10:18:43]2
+[normal][10:18:43]3
+[normal][10:18:43]4
+[normal][10:18:43]2
+[normal][10:18:43]3
+[normal][10:18:43]4
+[normal][10:18:43]getVideoinfo over
+[normal][10:18:43]element0
+[normal][10:18:43]element2
+[normal][10:18:43]begin
+[normal][10:18:43]<type 'unicode'>
+[normal][10:18:43]vname
+[normal][10:18:43]changeYearInDateStr2018-10-18 10:18:43
+[normal][10:18:43]column.taskid type is:<type 'unicode'>
+[normal][10:18:43]column.show_id type is:<type 'unicode'>
+[normal][10:18:43]catalog.properTitle type is:<type 'unicode'>
+[normal][10:18:43]1539827100000
+[normal][10:18:43]column
+[normal][10:18:43]properTitle
+[normal][10:18:43]cutType
+[normal][10:18:43]programSensitiveDescription
+[normal][10:18:43]tudouUser
+[normal][10:18:43]isBlock
+[normal][10:18:43]tencentColumnType
+[normal][10:18:43]classification
+[normal][10:18:43]tudouPassword
+[normal][10:18:43]userid
+[normal][10:18:43]col_alias
+[normal][10:18:43]programTotalNumber
+[normal][10:18:43]years
+[normal][10:18:43]ParallelProperTitle
+[normal][10:18:43]genre
+[normal][10:18:43]tag
+[normal][10:18:43]creativeStaff
+[normal][10:18:43]documentType
+[normal][10:18:43]keywords
+[normal][10:18:43]profucerName
+[normal][10:18:43]tags
+[normal][10:18:43]tudouChannel
+[normal][10:18:43]category
+[normal][10:18:43]content
+[normal][10:18:43]show_id
+[normal][10:18:43]cut_mode
+[normal][10:18:43]area
+[normal][10:18:43]fuxuankuang
+[normal][10:18:43]programType1
+[normal][10:18:43]properTitle
+[normal][10:18:43]show_relation
+[normal][10:18:43]character
+[normal][10:18:43]lsbc
+[normal][10:18:43]sjcd_classification
+[normal][10:18:43]1
+[normal][10:18:43]AlternativeTitle
+[normal][10:18:43]SpecialNote
+[normal][10:18:43]PatriarchClassification
+[normal][10:18:43]cnname
+[normal][10:18:43]pushPath
+[normal][10:18:43]danxuan
+[normal][10:18:43]video_cut_mode
+[normal][10:18:43]originName
+[normal][10:18:43]partname
+[normal][10:18:43]gz_classification
+[normal][10:18:43]ParallelSeriesTitle
+[normal][10:18:43]description
+[normal][10:18:43]vtype_mark
+[normal][10:18:43]publisher
+[normal][10:18:43]col_name
+[normal][10:18:43]qwe
+[normal][10:18:43]vms_classification
+[normal][10:18:43]area_code
+[normal][10:18:43]catalog_name
+[normal][10:18:43]collection
+[normal][10:18:43]xSubtitle
+[normal][10:18:43]basicLanguage
+[normal][10:18:43]Audience
+[normal][10:18:43]123
+[normal][10:18:43]ctype
+[normal][10:18:43]programType
+[normal][10:18:43]date
+[normal][10:18:43]wholename
+[normal][10:18:43]mtype
+[normal][10:18:43]table
+[normal][10:18:43]basicReleaseData
+[normal][10:18:43]programColumnName
+[normal][10:18:43]guest
+[normal][10:18:43]SeriesTitle
+[normal][10:18:43]basicCountry
+[normal][10:18:43]properTitleInitial
+[normal][10:18:43]profucer
+[normal][10:18:43]subtitle
+[normal][10:18:43]column
+[normal][10:18:43]content_main_thread
+[normal][10:18:43]tree
+[normal][10:18:43]host
+[normal][10:18:43]remain_video_type
+[normal][10:18:43]summary
+[normal][10:18:43]gz_area
+[normal][10:18:43]title
+[normal][10:18:43]coverId
+[normal][10:18:43]TobalNumberofEpisodes
+[normal][10:18:43]huayouColumn
+[normal][10:18:43]clipType
+[normal][10:18:43]jdh_classification
+[normal][10:18:43]taskid
+[normal][10:18:43]cutType
+[normal][10:18:43]column.col_alias type is:<type 'unicode'>
+[normal][10:18:43]aliasIsJDFT is 0
+[normal][10:18:43]catalog over
+[normal][10:18:43]to do cutinfo
+[normal][10:18:43][{u'clipOffset': 356120, u'infos': [{u'endTime': 752200, u'startTime': 519240}], u'lowSource': u'vwfs://\u90d1\u5dde\u65f6\u653f\u9891\u90531/20181018093903-low-1D1AD4C6-1F97-4867-9D48-7CF9AF200EE1.ts', u'lowStartTime': u'2018-10-18 09:39:03', u'clipId': 5}]
+[normal][10:18:43]2018-10-18 09:45:00
+[normal][10:18:43][{u'clipOffset': 356120, u'infos': [{u'endTime': 752200, u'startTime': 519240}], u'lowSource': u'vwfs://\u90d1\u5dde\u65f6\u653f\u9891\u90531/20181018093903-low-1D1AD4C6-1F97-4867-9D48-7CF9AF200EE1.ts', u'lowStartTime': u'2018-10-18 09:39:03', u'clipId': 5}]
+[normal][10:18:43]{u'clipOffset': 356120, u'infos': [{u'endTime': 752200, u'startTime': 519240}], u'lowSource': u'vwfs://\u90d1\u5dde\u65f6\u653f\u9891\u90531/20181018093903-low-1D1AD4C6-1F97-4867-9D48-7CF9AF200EE1.ts', u'lowStartTime': u'2018-10-18 09:39:03', u'clipId': 5}
+[normal][10:18:43][{u'endTime': 752200, u'startTime': 519240}]
+[normal][10:18:43]{u'endTime': 752200, u'startTime': 519240}
+[normal][10:18:43]519240
+[normal][10:18:43]519240
+[normal][10:18:43]1539827619.0
+[normal][10:18:43]getPosterNames start
+[normal][10:18:43]getFrameNames start
+[normal][10:18:43]frame length: 2
+[normal][10:18:43]start vwfspath
+[normal][10:18:43]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:18:43]here1
+[normal][10:18:43]here2
+[normal][10:18:44]here3
+[normal][10:18:44]start vwfspath
+[normal][10:18:44]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:18:44]here1
+[normal][10:18:44]here2
+[normal][10:18:45]here3
+[normal][10:18:45]/home/vwfs/郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:18:45]/home/vwfs/郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:18:45]start vwfspath
+[normal][10:18:45]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:18:45]here1
+[normal][10:18:45]here2
+[normal][10:18:46]here3
+[normal][10:18:46]first frame whole name : /home/vwfs/郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:18:46]start vwfspath
+[normal][10:18:46]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:18:46]here1
+[normal][10:18:46]here2
+[normal][10:18:47]here3
+[normal][10:18:47]chooseLargerPicture
+[normal][10:18:47]chooseLargerPictureList['vwfs://\xe9\x83\x91\xe5\xb7\x9e\xe6\x97\xb6\xe6\x94\xbf\xe9\xa2\x91\xe9\x81\x931/\xe5\x8c\x97\xe4\xba\xac\xe8\xa7\x86\xe9\xa2\x91\xe5\xb7\xa5\xe5\x8e\x82\xe7\xae\xa1\xe7\x90\x86\xe7\xb3\xbb\xe7\xbb\x9f/\xe5\xa4\xa7\xe8\xb1\xa1\xe8\x85\xbe\xe8\xae\xaf/20181018094500/\xe8\x85\xbe\xe8\xae\xaf/5/5/\xe5\xa4\xa7\xe8\xb1\xa1\xe8\x85\xbe\xe8\xae\xaf/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg', 'vwfs://\xe9\x83\x91\xe5\xb7\x9e\xe6\x97\xb6\xe6\x94\xbf\xe9\xa2\x91\xe9\x81\x931/\xe5\x8c\x97\xe4\xba\xac\xe8\xa7\x86\xe9\xa2\x91\xe5\xb7\xa5\xe5\x8e\x82\xe7\xae\xa1\xe7\x90\x86\xe7\xb3\xbb\xe7\xbb\x9f/\xe5\xa4\xa7\xe8\xb1\xa1\xe8\x85\xbe\xe8\xae\xaf/20181018094500/\xe8\x85\xbe\xe8\xae\xaf/5/5/\xe5\xa4\xa7\xe8\xb1\xa1\xe8\x85\xbe\xe8\xae\xaf/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg']
+[normal][10:18:47]start vwfspath
+[normal][10:18:47]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:18:47]here1
+[normal][10:18:47]here2
+[normal][10:18:48]here3
+[normal][10:18:48]chooseLargerPictureimg0pixel139440
+[normal][10:18:48]start vwfspath
+[normal][10:18:48]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:18:48]here1
+[normal][10:18:48]here2
+[normal][10:18:49]here3
+[normal][10:18:49]chooseLargerPictureimg1pixel372552
+[normal][10:18:49]largerPicture isvwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:18:49]smallerPicture isvwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:18:49]start vwfspath
+[normal][10:18:49]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:18:49]here1
+[normal][10:18:49]here2
+[normal][10:18:50]here3
+[normal][10:18:50]start vwfspath
+[normal][10:18:50]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:18:50]here1
+[normal][10:18:50]here2
+[normal][10:18:51]here3
+[normal][10:18:51]hPictures:669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:18:51]vPictures:669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:18:51]start vwfspath
+[normal][10:18:51]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:18:51]here1
+[normal][10:18:51]here2
+[normal][10:18:52]here3
+[normal][10:18:52]fPicture:669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:18:52]start vwfspath
+[normal][10:18:52]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:18:52]here1
+[normal][10:18:52]here2
+[normal][10:18:53]here3
+[normal][10:18:53]start vwfspath
+[normal][10:18:53]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:18:53]here1
+[normal][10:18:53]here2
+[normal][10:18:54]here3
+[normal][10:18:54]start vwfspath
+[normal][10:18:54]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:18:54]here1
+[normal][10:18:54]here2
+[normal][10:18:55]here3
+[normal][10:18:55]ctypeWithCuttypenum is231
+[normal][10:18:55]ctype9orCuttypenum1 is1
+[normal][10:18:55]over
+[normal][10:18:55]get elementObj over
+[normal][10:18:55]==================InfoFileGenerator==================
+[normal][10:18:55]externalModuleExist detail:{'FTP': True, 'PIL': True, 'boto': False, 'BOS': False, 'suds': False, 'requests': False}
+[normal][10:18:55]src is{column.collection}
+[normal][10:18:55]src is{column.collection}
+[normal][10:18:55]src is_cover.json
+[normal][10:18:55]src is/usr/template/cover_news.xml
+[normal][10:18:56]#$ "staff":"v_lpfang", "organization":"networks","ctype":"(10|{column.ctype}{?}{column.ctype}=)", "publish_date":"{playyear}-{playmonth}-{playdate}","title":"{column.col_alias}", "columnname":"({column.col_alias}|{cuttypename}{?}{cuttypename}=)"$#
+
+[normal][10:18:56]src is{column.ctype}
+[normal][10:18:56]src is
+[normal][10:18:56]src is{cuttypename}
+[normal][10:18:56]src is
+[normal][10:18:56]src is#$ "staff":"v_lpfang", "organization":"networks","ctype":"{column.ctype}", "publish_date":"{playyear}-{playmonth}-{playdate}","title":"{column.col_alias}", "columnname":"{cuttypename}"$#
+
+[normal][10:18:56]0
+[normal][10:18:56]==================BatchFtpUpload4Tencent==================
+[normal][10:18:56]externalModuleExist detail:{'FTP': True, 'PIL': True, 'boto': False, 'BOS': False, 'suds': False, 'requests': False}
+[normal][10:18:56]src is{column.coverId}
+[normal][10:18:56]src is
+[normal][10:18:56]src is1
+[normal][10:18:56]src is{column.coverId}
+[normal][10:18:56]src is
+[normal][10:18:56]src is1
+[normal][10:18:56]src is/{column.lsbc}{playyear}{playmonth}{playdate}
+[normal][10:18:56]src is182.131.11.232::21000::networks::networks@123
+[normal][10:21:03]ftp connection fail,Traceback (most recent call last):
+  File "/opt/python/src/standarddeployer.py", line 3059, in deploy
+    connect = ftp.connect(ftpIp,ftpPort)
+  File "/usr/lib64/python2.7/ftplib.py", line 135, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout)
+  File "/usr/lib64/python2.7/socket.py", line 571, in create_connection
+    raise err
+error: [Errno 110] Connection timed out
+
+[normal][10:23:10]ftp connection fail,Traceback (most recent call last):
+  File "/opt/python/src/standarddeployer.py", line 3059, in deploy
+    connect = ftp.connect(ftpIp,ftpPort)
+  File "/usr/lib64/python2.7/ftplib.py", line 135, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout)
+  File "/usr/lib64/python2.7/socket.py", line 571, in create_connection
+    raise err
+error: [Errno 110] Connection timed out
+
+[normal][10:25:17]ftp connection fail,Traceback (most recent call last):
+  File "/opt/python/src/standarddeployer.py", line 3059, in deploy
+    connect = ftp.connect(ftpIp,ftpPort)
+  File "/usr/lib64/python2.7/ftplib.py", line 135, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout)
+  File "/usr/lib64/python2.7/socket.py", line 571, in create_connection
+    raise err
+error: [Errno 110] Connection timed out
+
+[normal][10:27:24]ftp connection fail,Traceback (most recent call last):
+  File "/opt/python/src/standarddeployer.py", line 3059, in deploy
+    connect = ftp.connect(ftpIp,ftpPort)
+  File "/usr/lib64/python2.7/ftplib.py", line 135, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout)
+  File "/usr/lib64/python2.7/socket.py", line 571, in create_connection
+    raise err
+error: [Errno 110] Connection timed out
+
+[normal][10:29:32]ftp connection fail,Traceback (most recent call last):
+  File "/opt/python/src/standarddeployer.py", line 3059, in deploy
+    connect = ftp.connect(ftpIp,ftpPort)
+  File "/usr/lib64/python2.7/ftplib.py", line 135, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout)
+  File "/usr/lib64/python2.7/socket.py", line 571, in create_connection
+    raise err
+error: [Errno 110] Connection timed out
+
+[normal][10:29:32]ftp file check fail, return
+[normal][10:29:32]29
+[normal][10:29:32]formal return
+[error][10:29:32] deploy error
+[normal][10:29:33]callback url is null?uuid=null&status=ERROR
+[error][10:29:33]callback exception, unknown url type: null?uuid=null&status=ERROR
+[error][10:29:33]callback exception, unknown url type: null?uuid=null&status=ERROR
+[error][10:29:33]callback exception, unknown url type: null?uuid=null&status=ERROR
+[normal][10:41:00]start vwfspath
+[normal][10:41:00]here1
+[normal][10:41:00]here2
+[normal][10:41:01]here3
+[normal][10:41:01]real fileName is, /home/vwfs/郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5.ts
+[normal][10:41:01]1
+[normal][10:41:01]2
+[normal][10:41:01]3
+[normal][10:41:01]4
+[normal][10:41:01]2
+[normal][10:41:01]3
+[normal][10:41:01]4
+[normal][10:41:01]2
+[normal][10:41:01]3
+[normal][10:41:01]4
+[normal][10:41:01]2
+[normal][10:41:01]3
+[normal][10:41:01]4
+[normal][10:41:01]2
+[normal][10:41:01]3
+[normal][10:41:01]4
+[normal][10:41:01]2
+[normal][10:41:01]3
+[normal][10:41:01]4
+[normal][10:41:01]2
+[normal][10:41:01]3
+[normal][10:41:01]4
+[normal][10:41:01]2
+[normal][10:41:01]3
+[normal][10:41:01]4
+[normal][10:41:01]getVideoinfo over
+[normal][10:41:01]element0
+[normal][10:41:01]element2
+[normal][10:41:01]begin
+[normal][10:41:01]<type 'unicode'>
+[normal][10:41:01]vname
+[normal][10:41:01]changeYearInDateStr2018-10-18 10:41:01
+[normal][10:41:02]column.taskid type is:<type 'unicode'>
+[normal][10:41:02]column.show_id type is:<type 'unicode'>
+[normal][10:41:02]catalog.properTitle type is:<type 'unicode'>
+[normal][10:41:02]1539827100000
+[normal][10:41:02]column
+[normal][10:41:02]properTitle
+[normal][10:41:02]cutType
+[normal][10:41:02]programSensitiveDescription
+[normal][10:41:02]tudouUser
+[normal][10:41:02]isBlock
+[normal][10:41:02]tencentColumnType
+[normal][10:41:02]classification
+[normal][10:41:02]tudouPassword
+[normal][10:41:02]userid
+[normal][10:41:02]col_alias
+[normal][10:41:02]programTotalNumber
+[normal][10:41:02]years
+[normal][10:41:02]ParallelProperTitle
+[normal][10:41:02]genre
+[normal][10:41:02]tag
+[normal][10:41:02]creativeStaff
+[normal][10:41:02]documentType
+[normal][10:41:02]keywords
+[normal][10:41:02]profucerName
+[normal][10:41:02]tags
+[normal][10:41:02]tudouChannel
+[normal][10:41:02]category
+[normal][10:41:02]content
+[normal][10:41:02]show_id
+[normal][10:41:02]cut_mode
+[normal][10:41:02]area
+[normal][10:41:02]fuxuankuang
+[normal][10:41:02]programType1
+[normal][10:41:02]properTitle
+[normal][10:41:02]show_relation
+[normal][10:41:02]character
+[normal][10:41:02]lsbc
+[normal][10:41:02]sjcd_classification
+[normal][10:41:02]1
+[normal][10:41:02]AlternativeTitle
+[normal][10:41:02]SpecialNote
+[normal][10:41:02]PatriarchClassification
+[normal][10:41:02]cnname
+[normal][10:41:02]pushPath
+[normal][10:41:02]danxuan
+[normal][10:41:02]video_cut_mode
+[normal][10:41:02]originName
+[normal][10:41:02]partname
+[normal][10:41:02]gz_classification
+[normal][10:41:02]ParallelSeriesTitle
+[normal][10:41:02]description
+[normal][10:41:02]vtype_mark
+[normal][10:41:02]publisher
+[normal][10:41:02]col_name
+[normal][10:41:02]qwe
+[normal][10:41:02]vms_classification
+[normal][10:41:02]area_code
+[normal][10:41:02]catalog_name
+[normal][10:41:02]collection
+[normal][10:41:02]xSubtitle
+[normal][10:41:02]basicLanguage
+[normal][10:41:02]Audience
+[normal][10:41:02]123
+[normal][10:41:02]ctype
+[normal][10:41:02]programType
+[normal][10:41:02]date
+[normal][10:41:02]wholename
+[normal][10:41:02]mtype
+[normal][10:41:02]table
+[normal][10:41:02]basicReleaseData
+[normal][10:41:02]programColumnName
+[normal][10:41:02]guest
+[normal][10:41:02]SeriesTitle
+[normal][10:41:02]basicCountry
+[normal][10:41:02]properTitleInitial
+[normal][10:41:02]profucer
+[normal][10:41:02]subtitle
+[normal][10:41:02]column
+[normal][10:41:02]content_main_thread
+[normal][10:41:02]tree
+[normal][10:41:02]host
+[normal][10:41:02]remain_video_type
+[normal][10:41:02]summary
+[normal][10:41:02]gz_area
+[normal][10:41:02]title
+[normal][10:41:02]coverId
+[normal][10:41:02]TobalNumberofEpisodes
+[normal][10:41:02]huayouColumn
+[normal][10:41:02]clipType
+[normal][10:41:02]jdh_classification
+[normal][10:41:02]taskid
+[normal][10:41:02]cutType
+[normal][10:41:02]column.col_alias type is:<type 'unicode'>
+[normal][10:41:02]aliasIsJDFT is 0
+[normal][10:41:02]catalog over
+[normal][10:41:02]to do cutinfo
+[normal][10:41:02][{u'clipOffset': 356120, u'infos': [{u'endTime': 752200, u'startTime': 519240}], u'lowSource': u'vwfs://\u90d1\u5dde\u65f6\u653f\u9891\u90531/20181018093903-low-1D1AD4C6-1F97-4867-9D48-7CF9AF200EE1.ts', u'lowStartTime': u'2018-10-18 09:39:03', u'clipId': 5}]
+[normal][10:41:02]2018-10-18 09:45:00
+[normal][10:41:02][{u'clipOffset': 356120, u'infos': [{u'endTime': 752200, u'startTime': 519240}], u'lowSource': u'vwfs://\u90d1\u5dde\u65f6\u653f\u9891\u90531/20181018093903-low-1D1AD4C6-1F97-4867-9D48-7CF9AF200EE1.ts', u'lowStartTime': u'2018-10-18 09:39:03', u'clipId': 5}]
+[normal][10:41:02]{u'clipOffset': 356120, u'infos': [{u'endTime': 752200, u'startTime': 519240}], u'lowSource': u'vwfs://\u90d1\u5dde\u65f6\u653f\u9891\u90531/20181018093903-low-1D1AD4C6-1F97-4867-9D48-7CF9AF200EE1.ts', u'lowStartTime': u'2018-10-18 09:39:03', u'clipId': 5}
+[normal][10:41:02][{u'endTime': 752200, u'startTime': 519240}]
+[normal][10:41:02]{u'endTime': 752200, u'startTime': 519240}
+[normal][10:41:02]519240
+[normal][10:41:02]519240
+[normal][10:41:02]1539827619.0
+[normal][10:41:02]getPosterNames start
+[normal][10:41:02]getFrameNames start
+[normal][10:41:02]frame length: 2
+[normal][10:41:02]start vwfspath
+[normal][10:41:02]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:41:02]here1
+[normal][10:41:02]here2
+[normal][10:41:03]here3
+[normal][10:41:03]start vwfspath
+[normal][10:41:03]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:41:03]here1
+[normal][10:41:03]here2
+[normal][10:41:04]here3
+[normal][10:41:04]/home/vwfs/郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:41:04]/home/vwfs/郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:41:04]start vwfspath
+[normal][10:41:04]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:41:04]here1
+[normal][10:41:04]here2
+[normal][10:41:05]here3
+[normal][10:41:05]first frame whole name : /home/vwfs/郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:41:05]start vwfspath
+[normal][10:41:05]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:41:05]here1
+[normal][10:41:05]here2
+[normal][10:41:06]here3
+[normal][10:41:06]chooseLargerPicture
+[normal][10:41:06]chooseLargerPictureList['vwfs://\xe9\x83\x91\xe5\xb7\x9e\xe6\x97\xb6\xe6\x94\xbf\xe9\xa2\x91\xe9\x81\x931/\xe5\x8c\x97\xe4\xba\xac\xe8\xa7\x86\xe9\xa2\x91\xe5\xb7\xa5\xe5\x8e\x82\xe7\xae\xa1\xe7\x90\x86\xe7\xb3\xbb\xe7\xbb\x9f/\xe5\xa4\xa7\xe8\xb1\xa1\xe8\x85\xbe\xe8\xae\xaf/20181018094500/\xe8\x85\xbe\xe8\xae\xaf/5/5/\xe5\xa4\xa7\xe8\xb1\xa1\xe8\x85\xbe\xe8\xae\xaf/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg', 'vwfs://\xe9\x83\x91\xe5\xb7\x9e\xe6\x97\xb6\xe6\x94\xbf\xe9\xa2\x91\xe9\x81\x931/\xe5\x8c\x97\xe4\xba\xac\xe8\xa7\x86\xe9\xa2\x91\xe5\xb7\xa5\xe5\x8e\x82\xe7\xae\xa1\xe7\x90\x86\xe7\xb3\xbb\xe7\xbb\x9f/\xe5\xa4\xa7\xe8\xb1\xa1\xe8\x85\xbe\xe8\xae\xaf/20181018094500/\xe8\x85\xbe\xe8\xae\xaf/5/5/\xe5\xa4\xa7\xe8\xb1\xa1\xe8\x85\xbe\xe8\xae\xaf/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg']
+[normal][10:41:06]start vwfspath
+[normal][10:41:06]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:41:06]here1
+[normal][10:41:06]here2
+[normal][10:41:07]here3
+[normal][10:41:07]chooseLargerPictureimg0pixel139440
+[normal][10:41:07]start vwfspath
+[normal][10:41:07]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:41:07]here1
+[normal][10:41:07]here2
+[normal][10:41:08]here3
+[normal][10:41:08]chooseLargerPictureimg1pixel372552
+[normal][10:41:08]largerPicture isvwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:41:08]smallerPicture isvwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:41:08]start vwfspath
+[normal][10:41:08]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:41:08]here1
+[normal][10:41:08]here2
+[normal][10:41:09]here3
+[normal][10:41:09]start vwfspath
+[normal][10:41:09]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:41:09]here1
+[normal][10:41:09]here2
+[normal][10:41:10]here3
+[normal][10:41:10]hPictures:669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:41:10]vPictures:669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:41:10]start vwfspath
+[normal][10:41:10]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:41:10]here1
+[normal][10:41:10]here2
+[normal][10:41:11]here3
+[normal][10:41:11]fPicture:669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:41:11]start vwfspath
+[normal][10:41:11]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:41:11]here1
+[normal][10:41:11]here2
+[normal][10:41:12]here3
+[normal][10:41:12]start vwfspath
+[normal][10:41:12]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_ee4c202a-af0a-4aea-978f-36f2b4c22af7.jpg
+[normal][10:41:12]here1
+[normal][10:41:12]here2
+[normal][10:41:13]here3
+[normal][10:41:13]start vwfspath
+[normal][10:41:13]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181018094500/腾讯/5/5/大象腾讯/669000_85fb3143-3079-4bc0-addd-0c35e1d28675.jpg
+[normal][10:41:13]here1
+[normal][10:41:13]here2
+[normal][10:41:14]here3
+[normal][10:41:14]ctypeWithCuttypenum is231
+[normal][10:41:14]ctype9orCuttypenum1 is1
+[normal][10:41:14]over
+[normal][10:41:14]get elementObj over
+[normal][10:41:14]==================InfoFileGenerator==================
+[normal][10:41:14]externalModuleExist detail:{'FTP': True, 'PIL': True, 'boto': False, 'BOS': False, 'suds': False, 'requests': False}
+[normal][10:41:14]src is{column.collection}
+[normal][10:41:14]src is{column.collection}
+[normal][10:41:14]src is_cover.json
+[normal][10:41:14]src is/usr/template/cover_news.xml
+[normal][10:41:14]#$ "staff":"v_lpfang", "organization":"networks","ctype":"(10|{column.ctype}{?}{column.ctype}=)", "publish_date":"{playyear}-{playmonth}-{playdate}","title":"{column.col_alias}", "columnname":"({column.col_alias}|{cuttypename}{?}{cuttypename}=)"$#
+
+[normal][10:41:14]src is{column.ctype}
+[normal][10:41:14]src is
+[normal][10:41:14]src is{cuttypename}
+[normal][10:41:14]src is
+[normal][10:41:14]src is#$ "staff":"v_lpfang", "organization":"networks","ctype":"{column.ctype}", "publish_date":"{playyear}-{playmonth}-{playdate}","title":"{column.col_alias}", "columnname":"{cuttypename}"$#
+
+[normal][10:41:14]0
+[normal][10:41:14]==================BatchFtpUpload4Tencent==================
+[normal][10:41:14]externalModuleExist detail:{'FTP': True, 'PIL': True, 'boto': False, 'BOS': False, 'suds': False, 'requests': False}
+[normal][10:41:14]src is{column.coverId}
+[normal][10:41:14]src is
+[normal][10:41:14]src is1
+[normal][10:41:14]src is{column.coverId}
+[normal][10:41:14]src is
+[normal][10:41:14]src is1
+[normal][10:41:14]src is/{column.lsbc}{playyear}{playmonth}{playdate}
+[normal][10:41:14]src is182.131.11.232::21000::networks::networks@123
+[normal][10:43:21]ftp connection fail,Traceback (most recent call last):
+  File "/opt/python/src/standarddeployer.py", line 3059, in deploy
+    connect = ftp.connect(ftpIp,ftpPort)
+  File "/usr/lib64/python2.7/ftplib.py", line 135, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout)
+  File "/usr/lib64/python2.7/socket.py", line 571, in create_connection
+    raise err
+error: [Errno 110] Connection timed out
+
+[normal][10:45:28]ftp connection fail,Traceback (most recent call last):
+  File "/opt/python/src/standarddeployer.py", line 3059, in deploy
+    connect = ftp.connect(ftpIp,ftpPort)
+  File "/usr/lib64/python2.7/ftplib.py", line 135, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout)
+  File "/usr/lib64/python2.7/socket.py", line 571, in create_connection
+    raise err
+error: [Errno 110] Connection timed out
+

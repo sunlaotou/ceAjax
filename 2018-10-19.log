@@ -1,0 +1,245 @@
+[normal][18:34:41]start vwfspath
+[normal][18:34:41]here1
+[normal][18:34:41]here2
+[normal][18:34:42]here3
+[normal][18:34:42]real fileName is, /home/vwfs/郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12.mp4
+[normal][18:34:42]1
+[normal][18:34:42]2
+[normal][18:34:42]3
+[normal][18:34:42]4
+[normal][18:34:42]2
+[normal][18:34:42]3
+[normal][18:34:42]4
+[normal][18:34:42]2
+[normal][18:34:42]3
+[normal][18:34:42]4
+[normal][18:34:42]2
+[normal][18:34:42]3
+[normal][18:34:42]4
+[normal][18:34:42]2
+[normal][18:34:42]3
+[normal][18:34:42]4
+[normal][18:34:42]2
+[normal][18:34:42]3
+[normal][18:34:42]4
+[normal][18:34:42]2
+[normal][18:34:42]3
+[normal][18:34:42]4
+[normal][18:34:42]2
+[normal][18:34:42]3
+[normal][18:34:42]4
+[normal][18:34:42]getVideoinfo over
+[normal][18:34:42]element0
+[normal][18:34:42]element2
+[normal][18:34:42]begin
+[normal][18:34:42]<type 'unicode'>
+[normal][18:34:42]vname
+[normal][18:34:42]changeYearInDateStr2018-10-19 18:34:42
+[normal][18:34:42]column.taskid type is:<type 'unicode'>
+[normal][18:34:42]column.show_id type is:<type 'unicode'>
+[normal][18:34:42]catalog.properTitle type is:<type 'unicode'>
+[normal][18:34:42]1539939000000
+[normal][18:34:42]column
+[normal][18:34:42]properTitle
+[normal][18:34:42]cutType
+[normal][18:34:42]programSensitiveDescription
+[normal][18:34:42]tudouUser
+[normal][18:34:42]isBlock
+[normal][18:34:42]tencentColumnType
+[normal][18:34:42]classification
+[normal][18:34:42]tudouPassword
+[normal][18:34:42]userid
+[normal][18:34:42]col_alias
+[normal][18:34:42]programTotalNumber
+[normal][18:34:42]years
+[normal][18:34:42]ParallelProperTitle
+[normal][18:34:42]genre
+[normal][18:34:42]tag
+[normal][18:34:42]creativeStaff
+[normal][18:34:42]documentType
+[normal][18:34:42]keywords
+[normal][18:34:42]profucerName
+[normal][18:34:42]tags
+[normal][18:34:42]tudouChannel
+[normal][18:34:42]category
+[normal][18:34:42]content
+[normal][18:34:42]show_id
+[normal][18:34:42]cut_mode
+[normal][18:34:42]area
+[normal][18:34:42]fuxuankuang
+[normal][18:34:42]programType1
+[normal][18:34:42]properTitle
+[normal][18:34:42]show_relation
+[normal][18:34:42]character
+[normal][18:34:42]lsbc
+[normal][18:34:42]sjcd_classification
+[normal][18:34:42]1
+[normal][18:34:42]AlternativeTitle
+[normal][18:34:42]SpecialNote
+[normal][18:34:42]PatriarchClassification
+[normal][18:34:42]cnname
+[normal][18:34:42]pushPath
+[normal][18:34:42]danxuan
+[normal][18:34:42]video_cut_mode
+[normal][18:34:42]originName
+[normal][18:34:42]partname
+[normal][18:34:42]gz_classification
+[normal][18:34:42]ParallelSeriesTitle
+[normal][18:34:42]description
+[normal][18:34:42]vtype_mark
+[normal][18:34:42]publisher
+[normal][18:34:42]col_name
+[normal][18:34:42]qwe
+[normal][18:34:42]vms_classification
+[normal][18:34:42]area_code
+[normal][18:34:42]catalog_name
+[normal][18:34:42]collection
+[normal][18:34:42]xSubtitle
+[normal][18:34:42]basicLanguage
+[normal][18:34:42]Audience
+[normal][18:34:42]123
+[normal][18:34:42]ctype
+[normal][18:34:42]programType
+[normal][18:34:42]date
+[normal][18:34:42]wholename
+[normal][18:34:42]mtype
+[normal][18:34:42]table
+[normal][18:34:42]basicReleaseData
+[normal][18:34:42]programColumnName
+[normal][18:34:42]guest
+[normal][18:34:42]SeriesTitle
+[normal][18:34:42]basicCountry
+[normal][18:34:42]properTitleInitial
+[normal][18:34:42]profucer
+[normal][18:34:42]subtitle
+[normal][18:34:42]column
+[normal][18:34:42]content_main_thread
+[normal][18:34:42]tree
+[normal][18:34:42]host
+[normal][18:34:42]remain_video_type
+[normal][18:34:42]summary
+[normal][18:34:42]gz_area
+[normal][18:34:42]title
+[normal][18:34:42]coverId
+[normal][18:34:42]TobalNumberofEpisodes
+[normal][18:34:42]huayouColumn
+[normal][18:34:42]clipType
+[normal][18:34:42]jdh_classification
+[normal][18:34:42]taskid
+[normal][18:34:43]cutType
+[normal][18:34:43]column.col_alias type is:<type 'unicode'>
+[normal][18:34:43]aliasIsJDFT is 0
+[normal][18:34:43]catalog over
+[normal][18:34:43]to do cutinfo
+[normal][18:34:43][{u'clipOffset': 234760, u'infos': [{u'endTime': 1826720, u'startTime': 1037840}], u'lowSource': u'vwfs://\u90d1\u5dde\u65f6\u653f\u9891\u90531/20181019164604-low-4E560C67-F9C1-4FF1-A328-8135FCC40F7B.ts', u'lowStartTime': u'2018-10-19 16:46:04', u'clipId': 6}]
+[normal][18:34:43]2018-10-19 16:50:00
+[normal][18:34:43][{u'clipOffset': 234760, u'infos': [{u'endTime': 1826720, u'startTime': 1037840}], u'lowSource': u'vwfs://\u90d1\u5dde\u65f6\u653f\u9891\u90531/20181019164604-low-4E560C67-F9C1-4FF1-A328-8135FCC40F7B.ts', u'lowStartTime': u'2018-10-19 16:46:04', u'clipId': 6}]
+[normal][18:34:43]{u'clipOffset': 234760, u'infos': [{u'endTime': 1826720, u'startTime': 1037840}], u'lowSource': u'vwfs://\u90d1\u5dde\u65f6\u653f\u9891\u90531/20181019164604-low-4E560C67-F9C1-4FF1-A328-8135FCC40F7B.ts', u'lowStartTime': u'2018-10-19 16:46:04', u'clipId': 6}
+[normal][18:34:43][{u'endTime': 1826720, u'startTime': 1037840}]
+[normal][18:34:43]{u'endTime': 1826720, u'startTime': 1037840}
+[normal][18:34:43]1037840
+[normal][18:34:43]1037840
+[normal][18:34:43]1539940037.0
+[normal][18:34:43]getPosterNames start
+[normal][18:34:43]getFrameNames start
+[normal][18:34:43]frame length: 2
+[normal][18:34:43]start vwfspath
+[normal][18:34:43]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_d34eb65e-75da-4403-baec-f625f46db953.jpg
+[normal][18:34:43]here1
+[normal][18:34:43]here2
+[normal][18:34:44]here3
+[normal][18:34:44]start vwfspath
+[normal][18:34:44]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_1980a38b-9b50-4b9a-b85b-590a838d0230.jpg
+[normal][18:34:44]here1
+[normal][18:34:44]here2
+[normal][18:34:45]here3
+[normal][18:34:45]
+[normal][18:34:45]/home/vwfs/郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_1980a38b-9b50-4b9a-b85b-590a838d0230.jpg
+[normal][18:34:45]start vwfspath
+[normal][18:34:45]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_d34eb65e-75da-4403-baec-f625f46db953.jpg
+[normal][18:34:45]here1
+[normal][18:34:45]here2
+[normal][18:34:46]here3
+[normal][18:34:46]first frame whole name : /home/vwfs/郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_d34eb65e-75da-4403-baec-f625f46db953.jpg
+[normal][18:34:46]start vwfspath
+[normal][18:34:46]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_1980a38b-9b50-4b9a-b85b-590a838d0230.jpg
+[normal][18:34:46]here1
+[normal][18:34:46]here2
+[normal][18:34:47]here3
+[normal][18:34:47]chooseLargerPicture
+[normal][18:34:47]chooseLargerPictureList['vwfs://\xe9\x83\x91\xe5\xb7\x9e\xe6\x97\xb6\xe6\x94\xbf\xe9\xa2\x91\xe9\x81\x931/\xe5\x8c\x97\xe4\xba\xac\xe8\xa7\x86\xe9\xa2\x91\xe5\xb7\xa5\xe5\x8e\x82\xe7\xae\xa1\xe7\x90\x86\xe7\xb3\xbb\xe7\xbb\x9f/\xe5\xa4\xa7\xe8\xb1\xa1\xe8\x85\xbe\xe8\xae\xaf/20181019165000/\xe8\x85\xbe\xe8\xae\xaf/12/6/\xe5\xa4\xa7\xe8\xb1\xa1\xe8\x85\xbe\xe8\xae\xaf/1398640_d34eb65e-75da-4403-baec-f625f46db953.jpg', 'vwfs://\xe9\x83\x91\xe5\xb7\x9e\xe6\x97\xb6\xe6\x94\xbf\xe9\xa2\x91\xe9\x81\x931/\xe5\x8c\x97\xe4\xba\xac\xe8\xa7\x86\xe9\xa2\x91\xe5\xb7\xa5\xe5\x8e\x82\xe7\xae\xa1\xe7\x90\x86\xe7\xb3\xbb\xe7\xbb\x9f/\xe5\xa4\xa7\xe8\xb1\xa1\xe8\x85\xbe\xe8\xae\xaf/20181019165000/\xe8\x85\xbe\xe8\xae\xaf/12/6/\xe5\xa4\xa7\xe8\xb1\xa1\xe8\x85\xbe\xe8\xae\xaf/1398640_1980a38b-9b50-4b9a-b85b-590a838d0230.jpg']
+[normal][18:34:47]start vwfspath
+[normal][18:34:47]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_d34eb65e-75da-4403-baec-f625f46db953.jpg
+[normal][18:34:47]here1
+[normal][18:34:47]here2
+[normal][18:34:48]here3
+[normal][18:34:48]chooseLargerPictureimg0pixel55440
+[normal][18:34:48]start vwfspath
+[normal][18:34:48]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_1980a38b-9b50-4b9a-b85b-590a838d0230.jpg
+[normal][18:34:48]here1
+[normal][18:34:48]here2
+[normal][18:34:49]here3
+[normal][18:34:49]chooseLargerPictureimg1pixel147096
+[normal][18:34:49]largerPicture isvwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_1980a38b-9b50-4b9a-b85b-590a838d0230.jpg
+[normal][18:34:49]smallerPicture isvwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_d34eb65e-75da-4403-baec-f625f46db953.jpg
+[normal][18:34:49]start vwfspath
+[normal][18:34:49]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_d34eb65e-75da-4403-baec-f625f46db953.jpg
+[normal][18:34:49]here1
+[normal][18:34:49]here2
+[normal][18:34:50]here3
+[normal][18:34:50]start vwfspath
+[normal][18:34:50]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_1980a38b-9b50-4b9a-b85b-590a838d0230.jpg
+[normal][18:34:50]here1
+[normal][18:34:50]here2
+[normal][18:34:51]here3
+[normal][18:34:51]hPictures:
+[normal][18:34:51]vPictures:1398640_1980a38b-9b50-4b9a-b85b-590a838d0230.jpg
+[normal][18:34:51]start vwfspath
+[normal][18:34:51]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_d34eb65e-75da-4403-baec-f625f46db953.jpg
+[normal][18:34:51]here1
+[normal][18:34:51]here2
+[normal][18:34:52]here3
+[normal][18:34:52]fPicture:1398640_d34eb65e-75da-4403-baec-f625f46db953.jpg
+[normal][18:34:52]start vwfspath
+[normal][18:34:52]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_d34eb65e-75da-4403-baec-f625f46db953.jpg
+[normal][18:34:52]here1
+[normal][18:34:52]here2
+[normal][18:34:53]here3
+[normal][18:34:53]start vwfspath
+[normal][18:34:53]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_1980a38b-9b50-4b9a-b85b-590a838d0230.jpg
+[normal][18:34:53]here1
+[normal][18:34:53]here2
+[normal][18:34:54]here3
+[normal][18:34:54]start vwfspath
+[normal][18:34:54]vwfs://郑州时政频道1/北京视频工厂管理系统/大象腾讯/20181019165000/腾讯/12/6/大象腾讯/1398640_d34eb65e-75da-4403-baec-f625f46db953.jpg
+[normal][18:34:54]here1
+[normal][18:34:54]here2
+[normal][18:34:55]here3
+[normal][18:34:55]ctypeWithCuttypenum is231
+[normal][18:34:55]ctype9orCuttypenum1 is1
+[normal][18:34:55]over
+[normal][18:34:55]get elementObj over
+[normal][18:34:55]==================InfoFileGenerator==================
+[normal][18:34:55]externalModuleExist detail:{'FTP': True, 'PIL': True, 'boto': False, 'BOS': False, 'suds': False, 'requests': False}
+[normal][18:34:55]src is{column.collection}
+[normal][18:34:55]src is{column.collection}
+[normal][18:34:55]src is_cover.json
+[normal][18:34:55]src is/usr/template/cover_news.xml
+[normal][18:34:55]#$ "staff":"v_lpfang", "organization":"networks","ctype":"(10|{column.ctype}{?}{column.ctype}=)", "publish_date":"{playyear}-{playmonth}-{playdate}","title":"{column.col_alias}", "columnname":"({column.col_alias}|{cuttypename}{?}{cuttypename}=)"$#
+
+[normal][18:34:55]src is{column.ctype}
+[normal][18:34:55]src is
+[normal][18:34:55]src is{cuttypename}
+[normal][18:34:55]src is
+[normal][18:34:55]src is#$ "staff":"v_lpfang", "organization":"networks","ctype":"{column.ctype}", "publish_date":"{playyear}-{playmonth}-{playdate}","title":"{column.col_alias}", "columnname":"{cuttypename}"$#
+
+[normal][18:34:55]0
+[normal][18:34:55]==================BatchFtpUpload4Tencent==================
+[normal][18:34:55]externalModuleExist detail:{'FTP': True, 'PIL': True, 'boto': False, 'BOS': False, 'suds': False, 'requests': False}
+[normal][18:34:55]src is{column.coverId}
+[normal][18:34:55]src is
+[normal][18:34:55]src is1
+[normal][18:34:55]src is{column.coverId}
+[normal][18:34:55]src is
+[normal][18:34:55]src is1
+[normal][18:34:55]src is/{column.lsbc}{playyear}{playmonth}{playdate}

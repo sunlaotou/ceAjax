@@ -1,0 +1,109 @@
+E:\python³ÌÐò\django¿ò¼Ü\ORM>python manage.py migrate
+(0.001) SELECT @@SQL_AUTO_IS_NULL; args=None
+(0.002) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+(0.001) SELECT @@sql_mode; args=None
+System check identified some issues:
+
+WARNINGS:
+?: (mysql.W002) MySQL Strict Mode is not set for database connection 'default'
+        HINT: MySQL's Strict Mode fixes many data integrity problems in MySQL, such as data truncation upon insertion, by escalating warnings into errors. It is strongly recommended
+ you activate it. See: https://docs.djangoproject.com/en/2.1/ref/databases/#mysql-sql-mode
+(0.002) SHOW FULL TABLES; args=None
+(0.001) SHOW FULL TABLES; args=None
+Operations to perform:
+  Apply all migrations: admin, app01, auth, contenttypes, sessions
+Running migrations:
+(0.001) SHOW FULL TABLES; args=None
+CREATE TABLE `django_migrations` (`id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, `app` varchar(255) NOT NULL, `name` varchar(255) NOT NULL, `applied` datetime(6) NOT NULL); (para
+ms None)
+(0.001) CREATE TABLE `django_migrations` (`id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, `app` varchar(255) NOT NULL, `name` varchar(255) NOT NULL, `applied` datetime(6) NOT NULL
+); args=None
+Traceback (most recent call last):
+  File "D:\Python\Python35-32\lib\site-packages\django\db\backends\utils.py", line 83, in _execute
+    return self.cursor.execute(sql)
+  File "D:\Python\Python35-32\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\cursors.py", line 170, in execute
+    result = self._query(query)
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\cursors.py", line 328, in _query
+    conn.query(q)
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\connections.py", line 516, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\connections.py", line 727, in _read_query_result
+    result.read()
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\connections.py", line 1066, in read
+    first_packet = self.connection._read_packet()
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\connections.py", line 683, in _read_packet
+    packet.check_error()
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(6) NOT
+NULL)' at line 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Python\Python35-32\lib\site-packages\django\db\migrations\recorder.py", line 55, in ensure_schema
+    editor.create_model(self.Migration)
+  File "D:\Python\Python35-32\lib\site-packages\django\db\backends\base\schema.py", line 312, in create_model
+    self.execute(sql, params or None)
+  File "D:\Python\Python35-32\lib\site-packages\django\db\backends\base\schema.py", line 133, in execute
+    cursor.execute(sql, params)
+  File "D:\Python\Python35-32\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "D:\Python\Python35-32\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\Python\Python35-32\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\Python\Python35-32\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Python\Python35-32\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Python\Python35-32\lib\site-packages\django\db\backends\utils.py", line 83, in _execute
+    return self.cursor.execute(sql)
+  File "D:\Python\Python35-32\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\cursors.py", line 170, in execute
+    result = self._query(query)
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\cursors.py", line 328, in _query
+    conn.query(q)
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\connections.py", line 516, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\connections.py", line 727, in _read_query_result
+    result.read()
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\connections.py", line 1066, in read
+    first_packet = self.connection._read_packet()
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\connections.py", line 683, in _read_packet
+    packet.check_error()
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "D:\Python\Python35-32\lib\site-packages\pymysql\err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(6)
+NOT NULL)' at line 1")
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "manage.py", line 15, in <module>
+    execute_from_command_line(sys.argv)
+  File "D:\Python\Python35-32\lib\site-packages\django\core\management\__init__.py", line 381, in execute_from_command_line
+    utility.execute()
+  File "D:\Python\Python35-32\lib\site-packages\django\core\management\__init__.py", line 375, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "D:\Python\Python35-32\lib\site-packages\django\core\management\base.py", line 316, in run_from_argv
+    self.execute(*args, **cmd_options)
+  File "D:\Python\Python35-32\lib\site-packages\django\core\management\base.py", line 353, in execute
+    output = self.handle(*args, **options)
+  File "D:\Python\Python35-32\lib\site-packages\django\core\management\base.py", line 83, in wrapped
+    res = handle_func(*args, **kwargs)
+  File "D:\Python\Python35-32\lib\site-packages\django\core\management\commands\migrate.py", line 203, in handle
+    fake_initial=fake_initial,
+  File "D:\Python\Python35-32\lib\site-packages\django\db\migrations\executor.py", line 91, in migrate
+    self.recorder.ensure_schema()
+  File "D:\Python\Python35-32\lib\site-packages\django\db\migrations\recorder.py", line 57, in ensure_schema
+    raise MigrationSchemaMissing("Unable to create the django_migrations table (%s)" % exc)
+django.db.migrations.exceptions.MigrationSchemaMissing: Unable to create the django_migrations table ((1064, "You have an error in your SQL syntax; check the manual that corresponds
+ to your MySQL server version for the right syntax to use near '(6) NOT NULL)' at line 1"))

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-2.1.4.min.js"></script>
+</head>
+<body>
+{#<form action="" enctype="multipart/form-data" method="post">#}
+{#    姓名<input type="text" name="user">#}
+{#    头像<input type="file" name="avatar">#}
+{#    <input type="submit">#}
+</form>
+<h4>基于ajax上传文件</h4>
+<form action="">
+    姓名<input type="text" id="user">
+    头像<input type="file" id="avatar">
+    <input type="submit" id="ajax">
+</form>
+<script>
+ $("#ajax").click(function(){
+
+        var formdata=new FormData();
+        formdata.append("user",$("#user").val());
+        formdata.append("avatar",$("#avatar")[0].files[0]);
+
+        $.ajax({
+            url:"",
+            type:"post",
+            contentType:false,
+            processData:false,
+            data:formdata,
+            success:function(data){
+                console.log(data)
+            }
+        })
+    })
+</script>
+</body>
+</html>
